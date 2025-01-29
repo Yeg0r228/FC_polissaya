@@ -11,6 +11,15 @@ body {
   padding 20px;
   margin: 20px 0;  
 }
+.highlights-content{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.highlights-content article{
+  width: 500px;
+}
 
 h1 {
   color: yellow;
